@@ -67,7 +67,7 @@ export default function Home() {
             </div>
 
             <div className="mt-12 lg:ml-auto">
-              <p className="font-display text-2xl leading-[1.25] tracking-[-0.025em] sm:text-3xl">
+              <p className="font-display text-2xl leading-[1.25] tracking-[-0.025em]">
                 Computer Science student at Full Sail University | Drone, Simulation & AI Enthusiast | Former Lab Instructor Programming Contestant | Aerospace Dreamer
               </p>
               <p className="mt-6 text-[1.02rem] leading-7 text-[#17221b]/65">
